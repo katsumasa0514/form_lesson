@@ -175,10 +175,6 @@
   box-shadow: 0 0 0 2px rgb(1 191 189 / 10%);
 }
 
-.is-halfWidth {
-  width: 50%;
-}
-
 .row {
   margin-top: 20px;
 }
